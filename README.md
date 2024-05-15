@@ -1,4 +1,4 @@
-# Solaris Space App
+# Solaris Space Center App
 
 ![poster](./assets/home-page-template.png)
 
