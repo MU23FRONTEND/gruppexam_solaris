@@ -29,7 +29,7 @@ Ni kommer att få bygga och även delvis designa en webbapplikation som tar anv�
 
 ## Design-instruktioner
 - Designen för HomePage SKALL se ut på ett liknande sätt som i [mitt exempel](./assets/home-page-template.png) Det är valfritt att ge sig på Saturnus ringar, men storleken på planeterna måste på ett någorlunda vis förhålla sig relativt till varandra i storlek.
-- Designen för PlanetPage väljer ni att antingen implementera [exempel 1](./assets/planet-page-example1.png), [eller exempel 2](./assets/planet-page-example2.png). Vid val av exempel 1 så skall backgrunden anpassas beroende på vilken planet som läses in. Vid val av exempel 2 skall bilden [star-transparent.png](./assets/star-transparent.png) i *assets*-mappen användas likt exempelbilden.
+- Designen för PlanetPage väljer ni att antingen implementera [exempel 1](./assets/planet-page-example1.png), [eller exempel 2](./assets/planet-page-example2.png). Vid val av exempel 1 så skall backgrunden anpassas beroende på vilken planet som läses in. Vid val av exempel 2 skall bilden [star-transparent.png](./assets/star-transparent.png) i *assets*-mappen användas likt exempelbilden. Oavsett vilket exempel ni väljer så skall även funktionalitet för att lägga till/ta bort från favoriter implementeras.
 - Designen för FavoritePage är helt valfri, men det måste se bra ut!
 - Applikationen skall vara responsiv, och se bra ut på alla skärmar över 1000px i bredd.
 
