@@ -1,0 +1,1 @@
+# gruppexam_solaris
