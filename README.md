@@ -61,6 +61,8 @@ Oleg, Carl Johan, Philip C
 ### Grupp 4
 Philip N, Mahmoud, Tobias
 
+Om jag missat någon som är aktiv i klassen så får ni kontakta mig så stoppar jag in er i en grupp.
+
 Innan ni börjar arbeta så vill jag att varje grupp sätter sig ner och svarar på följande frågor:
 - När och hur ska vi arbeta?
 - Hur skall vi kommunicera med varandra?
