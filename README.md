@@ -1,5 +1,7 @@
 # Solaris Space App
 
+![poster](./assets/home-page-template.png)
+
 ## Introduktion
 Hejsan alla blivande kodastronauter!
 
