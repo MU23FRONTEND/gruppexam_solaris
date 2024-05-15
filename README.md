@@ -68,9 +68,12 @@ Om jag missat någon som är aktiv i klassen så får ni kontakta mig så stoppa
 Innan ni börjar arbeta så vill jag att varje grupp sätter sig ner och svarar på följande frågor:
 - När och hur ska vi arbeta?
 - Hur skall vi kommunicera med varandra?
+- Vilka krav ställer vi på varandra? Hur aktiv behöver man vara?
 - Vad gör vi om någon är sjuk?
 - Vad gör vi om någon inte är med och arbetar aktivt i gruppen?
 - Vad gör vi om någon inte svarar på meddelanden?
+
+Vid en öppen konflikt i gruppen skall svaren på dessa frågor användas som underlag för mitt beslut i frågan. Finns inga nedskrivna svar i ett sådant läge kommer hela gruppen att få underkänt på uppgiften tills konflikten är löst.
 
 ## Inlämning
 Inlämning sker på Azomo, där var och en i gruppen länkar till gruppens gemensamma Git-repo senast kl 23:59 söndagen den 26 maj.
